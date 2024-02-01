@@ -1,2 +1,2 @@
-# checkers
-A game of checkers build in Java
+# OOP-Project
+The most up-to date version is in dev branch.
