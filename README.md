@@ -1,2 +1,5 @@
-# OOP-Project
-The most up-to date version is in dev branch.
+The most up to date version is in the main branch.
+
+**Authors:**
+
+Anna Yesayan & Nare Sargsyan
