@@ -186,7 +186,7 @@ public class CheckersGUI extends JFrame implements ActionListener {
 
     private void clickDisable() {
         for (int row = 0; row < buttons.length; row++) {
-            for (int col = 0; col < buttons.row.length; col++) {
+            for (int col = 0; col < buttons.length; col++) {
                 buttons[row][col].setEnabled(false);
             }
         }
